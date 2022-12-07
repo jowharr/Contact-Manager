@@ -1,0 +1,58 @@
+body {
+  background-image: url(https://img.freepik.com/free-psd/tropical-green-leaves-background_24972-1942.jpg?w=1380&t=st=1669714560~exp=1669715160~hmac=c9aa4c96c0f9b0e0b07fa0209009ff2da4997c7ccd5c382704a6c3e4d169dc43);
+}
+
+.main-body {
+  width: 40%;
+  height: 400px;
+  background-color: white;
+  border-radius: 20px;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
+.add-contact {
+  font-size: 30px;
+}
+
+.entered-value {
+  width: 40%;
+  height: 100px;
+  background-color: white;
+  margin-top: 1%;
+  margin-left: 30%;
+  border-radius: 20px;
+}
+
+.logo {
+  width: 10%;
+  height: 100%;
+  float: left;
+}
+
+.img {
+  width: 40px;
+  margin-top: 30px;
+  margin-left: 20px;
+  float: left;
+}
+
+.input-value {
+  font-size: 102%;
+  letter-spacing: 2px;
+
+}
+
+.input-value-box {
+  width: 60%;
+  height: 100%;
+  float: left;
+  margin-left: 2%;
+  margin-top: 15px;
+}
+
+.logo-delete {
+  width: 9%;
+  height: 100%;
+  float: left;
+}
