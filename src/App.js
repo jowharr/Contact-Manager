@@ -8,6 +8,7 @@ function App() {
   const [info, setInfo] = useState({})
   const [editForm, setEditForm] = useState(false)
   const [editData, setEditData] = useState([])
+  
   const [reload, setReload] = useState(false)
 
 
